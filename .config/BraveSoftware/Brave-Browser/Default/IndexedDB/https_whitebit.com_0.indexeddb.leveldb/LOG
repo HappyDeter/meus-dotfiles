@@ -1,0 +1,24 @@
+2025/04/12-00:01:11.797 1a68c Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitebit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/12-00:01:11.808 1a68c Recovering log #6
+2025/04/12-00:01:11.809 1a68c Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitebit.com_0.indexeddb.leveldb/000006.log 
+2025/04/12-00:01:12.168 1a68c Level-0 table #10: started
+2025/04/12-00:01:12.174 1a68c Level-0 table #10: 1655 bytes OK
+2025/04/12-00:01:12.175 1a68c Delete type=0 #6
+2025/04/12-00:01:12.175 1a68c Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 97 : 1
+2025/04/12-00:01:12.175 1a68c Compacting 1@0 + 1@1 files
+2025/04/12-00:01:12.176 1a68c Generated table #11@0: 42 keys, 1226 bytes
+2025/04/12-00:01:12.180 1a68c Compacted 1@0 + 1@1 files => 1226 bytes
+2025/04/12-00:01:12.181 1a68c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/12-00:01:12.181 1a68c Delete type=2 #10
+2025/04/12-00:01:12.184 1a68c Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 97 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/12-00:01:12.191 1a6ac Level-0 table #13: started
+2025/04/12-00:01:12.191 1a6ac Level-0 table #13: 648 bytes OK
+2025/04/12-00:01:12.201 1a6ac Delete type=2 #7
+2025/04/12-00:01:12.201 1a6ac Delete type=0 #9
+2025/04/12-00:01:12.204 1a68d Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 114 : 1
+2025/04/12-00:01:12.204 1a68d Compacting 1@0 + 1@1 files
+2025/04/12-00:01:12.205 1a68d Generated table #14@0: 42 keys, 1225 bytes
+2025/04/12-00:01:12.207 1a68d Compacted 1@0 + 1@1 files => 1225 bytes
+2025/04/12-00:01:12.207 1a68d compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/12-00:01:12.208 1a68d Delete type=2 #13
+2025/04/12-00:01:12.208 1a68d Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 114 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

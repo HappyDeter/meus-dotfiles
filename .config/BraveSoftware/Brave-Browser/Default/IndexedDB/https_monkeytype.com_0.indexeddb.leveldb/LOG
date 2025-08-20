@@ -1,0 +1,7 @@
+2025/07/27-00:15:38.623 e1f Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/27-00:15:38.623 e1f Recovering log #41
+2025/07/27-00:15:38.652 e1f Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000041.log 
+2025/07/27-00:15:38.688 e10 Level-0 table #47: started
+2025/07/27-00:15:38.689 e10 Level-0 table #47: 807 bytes OK
+2025/07/27-00:15:38.689 e10 Delete type=0 #41
+2025/07/27-00:15:38.691 e1e Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

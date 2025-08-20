@@ -1,0 +1,20 @@
+2025/06/26-13:50:16.297 15cb Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.beatstars.com_0.indexeddb.leveldb since it was missing.
+2025/06/26-13:50:16.298 15cb Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.beatstars.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/26-13:50:16.351 15cb Level-0 table #5: started
+2025/06/26-13:50:16.352 15cb Level-0 table #5: 672 bytes OK
+2025/06/26-13:50:16.352 15cb Delete type=0 #3
+2025/06/26-13:50:16.355 15cb Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/26-13:50:18.322 15ca Level-0 table #7: started
+2025/06/26-13:50:18.323 15ca Level-0 table #7: 660 bytes OK
+2025/06/26-13:50:18.323 15ca Delete type=0 #4
+2025/06/26-13:50:18.327 15d7 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/26-13:50:18.928 15d8 Level-0 table #9: started
+2025/06/26-13:50:18.930 15d8 Level-0 table #9: 1291 bytes OK
+2025/06/26-13:50:18.930 15d8 Delete type=0 #6
+2025/06/26-13:50:18.930 15c9 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\xc8\x13\x00a\x00p\x00p\x00_\x00n\x00a\x00m\x00e\x00s\x00p\x00a\x00c\x00e\x00_\x00s\x00t\x00o\x00r\x00e' @ 63 : 1
+2025/06/26-13:50:18.931 15c9 Compacting 1@0 + 1@1 files
+2025/06/26-13:50:18.931 15c9 Generated table #10@0: 38 keys, 886 bytes
+2025/06/26-13:50:18.931 15c9 Compacted 1@0 + 1@1 files => 886 bytes
+2025/06/26-13:50:18.932 15c9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/26-13:50:18.932 15c9 Delete type=2 #9
+2025/06/26-13:50:18.932 15d7 Manual compaction at level-0 from '\x00\x04\x00\x00\xc8\x13\x00a\x00p\x00p\x00_\x00n\x00a\x00m\x00e\x00s\x00p\x00a\x00c\x00e\x00_\x00s\x00t\x00o\x00r\x00e' @ 63 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

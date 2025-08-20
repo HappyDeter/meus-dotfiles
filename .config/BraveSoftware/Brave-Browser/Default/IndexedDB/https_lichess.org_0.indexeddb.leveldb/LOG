@@ -1,0 +1,15 @@
+2025/07/28-21:16:06.704 255b Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/28-21:16:06.706 255b Recovering log #19
+2025/07/28-21:16:06.714 255b Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_lichess.org_0.indexeddb.leveldb/000019.log 
+2025/07/28-21:16:12.288 2536 Level-0 table #24: started
+2025/07/28-21:16:12.303 2536 Level-0 table #24: 226061 bytes OK
+2025/07/28-21:16:12.306 2536 Delete type=0 #19
+2025/07/28-21:16:12.337 2536 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/28-21:16:12.346 2536 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x08\x00z\x00a\x00J\x00j\x001\x00g\x00O\x007' @ 484 : 1
+2025/07/28-21:16:12.347 2536 Compacting 1@1 + 1@2 files
+2025/07/28-21:16:12.351 2536 Generated table #25@1: 62 keys, 19102 bytes
+2025/07/28-21:16:12.351 2536 Compacted 1@1 + 1@2 files => 19102 bytes
+2025/07/28-21:16:12.351 2536 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/28-21:16:12.352 2536 Delete type=2 #21
+2025/07/28-21:16:12.352 2536 Delete type=2 #24
+2025/07/28-21:16:12.353 2536 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x08\x00z\x00a\x00J\x00j\x001\x00g\x00O\x007' @ 484 : 1 .. (end); will stop at (end)

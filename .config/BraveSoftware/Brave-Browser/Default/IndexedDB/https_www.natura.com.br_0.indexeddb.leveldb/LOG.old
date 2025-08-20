@@ -1,0 +1,10 @@
+2025/05/25-16:01:43.707 3ac1 Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.natura.com.br_0.indexeddb.leveldb since it was missing.
+2025/05/25-16:01:43.708 3ac1 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.natura.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/25-16:01:43.760 3ac0 Level-0 table #5: started
+2025/05/25-16:01:43.761 3ac0 Level-0 table #5: 754 bytes OK
+2025/05/25-16:01:43.777 3ac0 Delete type=0 #3
+2025/05/25-16:01:43.783 3ac1 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/25-16:01:43.847 3aeb Level-0 table #7: started
+2025/05/25-16:01:43.848 3aeb Level-0 table #7: 1177 bytes OK
+2025/05/25-16:01:43.848 3aeb Delete type=0 #4
+2025/05/25-16:01:43.857 3ae9 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

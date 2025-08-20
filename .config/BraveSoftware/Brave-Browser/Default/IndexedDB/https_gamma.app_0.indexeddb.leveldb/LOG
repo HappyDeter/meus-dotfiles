@@ -1,0 +1,7 @@
+2025/06/01-14:13:26.297 11af Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/01-14:13:26.302 11af Recovering log #3
+2025/06/01-14:13:26.303 11af Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_gamma.app_0.indexeddb.leveldb/000003.log 
+2025/06/01-14:38:25.612 11bc Level-0 table #5: started
+2025/06/01-14:38:25.677 11bc Level-0 table #5: 369837 bytes OK
+2025/06/01-14:38:25.680 11bc Delete type=0 #3
+2025/06/01-14:38:25.684 11af Manual compaction at level-0 from (begin) .. (end); will stop at (end)

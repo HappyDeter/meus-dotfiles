@@ -1,0 +1,14 @@
+2025/05/05-19:27:24.302 b31 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.viagogo.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/05-19:27:24.303 b31 Recovering log #10
+2025/05/05-19:27:24.303 b31 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.viagogo.com_0.indexeddb.leveldb/000010.log 
+2025/05/05-19:27:24.304 b31 Delete type=2 #8
+2025/05/05-19:27:29.897 b34 Level-0 table #15: started
+2025/05/05-19:27:29.900 b34 Level-0 table #15: 540 bytes OK
+2025/05/05-19:27:29.902 b34 Delete type=0 #10
+2025/05/05-19:27:29.903 b31 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 206 : 1
+2025/05/05-19:27:29.903 b31 Compacting 1@0 + 1@1 files
+2025/05/05-19:27:29.904 b31 Generated table #16@0: 29 keys, 703 bytes
+2025/05/05-19:27:29.904 b31 Compacted 1@0 + 1@1 files => 703 bytes
+2025/05/05-19:27:29.904 b31 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/05-19:27:29.904 b31 Delete type=2 #15
+2025/05/05-19:27:29.908 b31 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 206 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

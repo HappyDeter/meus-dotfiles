@@ -1,0 +1,6 @@
+2025/05/11-00:35:08.893 9318 Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_srm-texus-2023.vercel.app_0.indexeddb.leveldb since it was missing.
+2025/05/11-00:35:08.895 9318 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_srm-texus-2023.vercel.app_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/11-00:35:09.144 9328 Level-0 table #5: started
+2025/05/11-00:35:09.145 9328 Level-0 table #5: 1349 bytes OK
+2025/05/11-00:35:09.147 9328 Delete type=0 #3
+2025/05/11-00:35:09.148 932b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

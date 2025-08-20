@@ -1,0 +1,44 @@
+2025/06/06-01:53:50.925 eb3 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.natura.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-01:53:50.926 eb3 Recovering log #6
+2025/06/06-01:53:50.926 eb3 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.natura.com.br_0.indexeddb.leveldb/000006.log 
+2025/06/06-01:53:51.329 eb4 Level-0 table #10: started
+2025/06/06-01:53:51.330 eb4 Level-0 table #10: 1673 bytes OK
+2025/06/06-01:53:51.330 eb4 Delete type=0 #6
+2025/06/06-01:53:51.331 ebf Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 137 : 1
+2025/06/06-01:53:51.331 ebf Compacting 1@0 + 1@1 files
+2025/06/06-01:53:51.332 ebf Generated table #11@0: 64 keys, 1499 bytes
+2025/06/06-01:53:51.332 ebf Compacted 1@0 + 1@1 files => 1499 bytes
+2025/06/06-01:53:51.332 ebf compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-01:53:51.333 ebf Delete type=2 #10
+2025/06/06-01:53:51.334 ebf Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 137 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-01:53:51.694 eb4 Level-0 table #13: started
+2025/06/06-01:53:51.695 eb4 Level-0 table #13: 656 bytes OK
+2025/06/06-01:53:51.696 eb4 Delete type=2 #7
+2025/06/06-01:53:51.696 eb4 Delete type=0 #9
+2025/06/06-01:53:51.696 eb4 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 154 : 1
+2025/06/06-01:53:51.696 eb4 Compacting 1@0 + 1@1 files
+2025/06/06-01:53:51.697 eb4 Generated table #14@0: 68 keys, 1545 bytes
+2025/06/06-01:53:51.697 eb4 Compacted 1@0 + 1@1 files => 1545 bytes
+2025/06/06-01:53:51.698 eb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-01:53:51.699 eb4 Delete type=2 #13
+2025/06/06-01:53:51.699 eb2 Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 154 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-01:57:55.720 eb4 Level-0 table #16: started
+2025/06/06-01:57:55.721 eb4 Level-0 table #16: 82080 bytes OK
+2025/06/06-01:57:55.722 eb4 Delete type=2 #11
+2025/06/06-01:57:55.722 eb4 Delete type=0 #12
+2025/06/06-01:57:55.727 eb4 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x07\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x005\x006\x002\x003\x008\x009\x002\x001\x007\x00:\x00w\x00e\x00b\x00:\x003\x001\x002\x003\x000\x00f\x00a\x007\x003\x007\x003\x001\x00b\x00c\x00f\x008\x00c\x003\x00e\x005\x00a\x000' @ 229 : 1
+2025/06/06-01:57:55.727 eb4 Compacting 1@0 + 1@1 files
+2025/06/06-01:57:55.734 eb4 Generated table #17@0: 162 keys, 79356 bytes
+2025/06/06-01:57:55.734 eb4 Compacted 1@0 + 1@1 files => 79356 bytes
+2025/06/06-01:57:55.734 eb4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/06-01:57:55.734 eb4 Delete type=2 #14
+2025/06/06-01:57:55.735 eb4 Delete type=2 #16
+2025/06/06-01:57:55.735 eb4 Manual compaction at level-0 from '\x00\x07\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x005\x006\x002\x003\x008\x009\x002\x001\x007\x00:\x00w\x00e\x00b\x00:\x003\x001\x002\x003\x000\x00f\x00a\x007\x003\x007\x003\x001\x00b\x00c\x00f\x008\x00c\x003\x00e\x005\x00a\x000' @ 229 : 1 .. (end); will stop at (end)
+2025/06/06-01:57:55.735 eb4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x005\x006\x002\x003\x008\x009\x002\x001\x007\x00:\x00w\x00e\x00b\x00:\x003\x001\x002\x003\x000\x00f\x00a\x007\x003\x007\x003\x001\x00b\x00c\x00f\x008\x00c\x003\x00e\x005\x00a\x000' @ 313 : 1
+2025/06/06-01:57:55.735 eb4 Compacting 1@1 + 1@2 files
+2025/06/06-01:57:55.736 eb4 Generated table #18@1: 58 keys, 77552 bytes
+2025/06/06-01:57:55.736 eb4 Compacted 1@1 + 1@2 files => 77552 bytes
+2025/06/06-01:57:55.737 eb4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/06-01:57:55.737 eb4 Delete type=2 #5
+2025/06/06-01:57:55.737 eb4 Delete type=2 #17
+2025/06/06-01:57:55.738 eb4 Manual compaction at level-1 from '\x00\x07\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x006\x005\x005\x006\x002\x003\x008\x009\x002\x001\x007\x00:\x00w\x00e\x00b\x00:\x003\x001\x002\x003\x000\x00f\x00a\x007\x003\x007\x003\x001\x00b\x00c\x00f\x008\x00c\x003\x00e\x005\x00a\x000' @ 313 : 1 .. (end); will stop at (end)

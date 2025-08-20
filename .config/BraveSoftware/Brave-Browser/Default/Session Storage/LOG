@@ -1,0 +1,22 @@
+2025/08/19-21:14:05.923 6 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2025/08/19-21:14:06.008 6 Recovering log #2078
+2025/08/19-21:14:06.044 6 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/Session Storage/002078.log 
+2025/08/19-21:14:15.742 4 Level-0 table #2082: started
+2025/08/19-21:14:15.762 4 Level-0 table #2082: 52070 bytes OK
+2025/08/19-21:14:15.774 4 Delete type=0 #2078
+2025/08/19-21:16:35.952 6 Level-0 table #2084: started
+2025/08/19-21:16:35.954 6 Level-0 table #2084: 44820 bytes OK
+2025/08/19-21:16:35.957 6 Delete type=0 #2081
+2025/08/19-21:16:35.959 6 Compacting 4@0 + 2@1 files
+2025/08/19-21:16:35.989 6 Generated table #2085@0: 5173 keys, 179681 bytes
+2025/08/19-21:16:35.989 6 Compacted 4@0 + 2@1 files => 179681 bytes
+2025/08/19-21:16:35.990 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/19-21:16:35.991 6 Delete type=2 #2063
+2025/08/19-21:16:35.991 6 Delete type=2 #2074
+2025/08/19-21:16:35.991 6 Delete type=2 #2077
+2025/08/19-21:16:35.991 6 Delete type=2 #2079
+2025/08/19-21:16:35.991 6 Delete type=2 #2082
+2025/08/19-21:16:35.991 6 Delete type=2 #2084
+2025/08/19-21:25:13.046 6 Level-0 table #2087: started
+2025/08/19-21:25:13.048 6 Level-0 table #2087: 46450 bytes OK
+2025/08/19-21:25:13.077 6 Delete type=0 #2083

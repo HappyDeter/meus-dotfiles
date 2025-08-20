@@ -1,0 +1,14 @@
+2025/04/19-19:54:44.184 c30 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.luppet.jp_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/19-19:54:44.185 c30 Recovering log #26
+2025/04/19-19:54:44.220 c30 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_account.luppet.jp_0.indexeddb.leveldb/000026.log 
+2025/04/19-19:54:44.224 c30 Delete type=2 #25
+2025/04/19-19:54:44.234 c30 Level-0 table #31: started
+2025/04/19-19:54:44.236 c30 Level-0 table #31: 8496 bytes OK
+2025/04/19-19:54:44.236 c30 Delete type=0 #26
+2025/04/19-19:54:44.237 c2f Manual compaction at level-0 from '\x00\x0d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0d\x00\x00\x05' @ 613 : 1
+2025/04/19-19:54:44.238 c2f Compacting 1@0 + 1@1 files
+2025/04/19-19:54:44.239 c2f Generated table #32@0: 183 keys, 4790 bytes
+2025/04/19-19:54:44.239 c2f Compacted 1@0 + 1@1 files => 4790 bytes
+2025/04/19-19:54:44.239 c2f compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/19-19:54:44.240 c2f Delete type=2 #31
+2025/04/19-19:54:44.240 c2f Manual compaction at level-0 from '\x00\x0d\x00\x00\x05' @ 613 : 1 .. '\x00\x0e\x00\x00\x00' @ 0 : 0; will stop at (end)

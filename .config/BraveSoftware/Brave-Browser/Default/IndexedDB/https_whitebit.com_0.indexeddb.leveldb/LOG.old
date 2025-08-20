@@ -1,0 +1,10 @@
+2025/04/11-23:31:58.022 1a68c Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitebit.com_0.indexeddb.leveldb since it was missing.
+2025/04/11-23:31:58.029 1a68c Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_whitebit.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/11-23:31:58.056 1a68c Level-0 table #5: started
+2025/04/11-23:31:58.057 1a68c Level-0 table #5: 661 bytes OK
+2025/04/11-23:31:58.057 1a68c Delete type=0 #3
+2025/04/11-23:31:58.058 1a68c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/11-23:31:58.121 1a68d Level-0 table #7: started
+2025/04/11-23:31:58.121 1a68d Level-0 table #7: 649 bytes OK
+2025/04/11-23:31:58.122 1a68d Delete type=0 #4
+2025/04/11-23:31:58.123 1a68e Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

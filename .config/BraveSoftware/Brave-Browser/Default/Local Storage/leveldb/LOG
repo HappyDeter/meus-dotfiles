@@ -1,0 +1,20 @@
+2025/08/19-21:14:05.310 4 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2025/08/19-21:14:05.421 4 Recovering log #6719
+2025/08/19-21:14:05.524 4 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/006719.log 
+2025/08/19-21:24:13.440 6 Level-0 table #6723: started
+2025/08/19-21:24:13.442 6 Level-0 table #6723: 16725 bytes OK
+2025/08/19-21:24:13.443 6 Delete type=0 #6719
+2025/08/19-21:24:13.444 6 Compacting 4@0 + 2@1 files
+2025/08/19-21:24:13.523 6 Generated table #6724@0: 1793 keys, 2863844 bytes
+2025/08/19-21:24:13.562 6 Generated table #6725@0: 54 keys, 1096217 bytes
+2025/08/19-21:24:13.563 6 Compacted 4@0 + 2@1 files => 3960061 bytes
+2025/08/19-21:24:13.563 6 compacted to: files[ 0 2 4 0 0 0 0 ]
+2025/08/19-21:24:13.564 6 Delete type=2 #6713
+2025/08/19-21:24:13.564 6 Delete type=2 #6714
+2025/08/19-21:24:13.564 6 Delete type=2 #6716
+2025/08/19-21:24:13.564 6 Delete type=2 #6718
+2025/08/19-21:24:13.564 6 Delete type=2 #6720
+2025/08/19-21:24:13.564 6 Delete type=2 #6723
+2025/08/19-21:26:13.414 6 Level-0 table #6727: started
+2025/08/19-21:26:13.415 6 Level-0 table #6727: 22834 bytes OK
+2025/08/19-21:26:13.416 6 Delete type=0 #6722

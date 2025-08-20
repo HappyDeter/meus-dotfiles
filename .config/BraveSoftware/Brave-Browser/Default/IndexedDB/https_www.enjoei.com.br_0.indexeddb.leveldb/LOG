@@ -1,0 +1,14 @@
+2025/06/16-13:35:40.189 2825 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.enjoei.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/16-13:35:40.190 2825 Recovering log #20
+2025/06/16-13:35:40.192 2825 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.enjoei.com.br_0.indexeddb.leveldb/000020.log 
+2025/06/16-13:35:40.194 2825 Delete type=2 #19
+2025/06/16-13:35:40.222 2825 Level-0 table #25: started
+2025/06/16-13:35:40.223 2825 Level-0 table #25: 657 bytes OK
+2025/06/16-13:35:40.223 2825 Delete type=0 #20
+2025/06/16-13:35:40.224 2827 Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 192 : 1
+2025/06/16-13:35:40.224 2827 Compacting 1@0 + 1@1 files
+2025/06/16-13:35:40.225 2827 Generated table #26@0: 36 keys, 1151 bytes
+2025/06/16-13:35:40.225 2827 Compacted 1@0 + 1@1 files => 1151 bytes
+2025/06/16-13:35:40.225 2827 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/06/16-13:35:40.226 2827 Delete type=2 #25
+2025/06/16-13:35:40.226 2825 Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 192 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

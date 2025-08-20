@@ -1,0 +1,14 @@
+2025/07/14-11:23:04.699 a95 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/14-11:23:04.699 a95 Recovering log #121
+2025/07/14-11:23:04.700 a95 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_outlook.live.com_0.indexeddb.leveldb/000121.log 
+2025/07/14-11:23:04.700 a95 Delete type=2 #119
+2025/07/14-11:23:04.796 a97 Level-0 table #126: started
+2025/07/14-11:23:04.816 a97 Level-0 table #126: 541 bytes OK
+2025/07/14-11:23:04.817 a97 Delete type=0 #121
+2025/07/14-11:23:04.823 a96 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at '\x00\x1f\x00\x00\x05' @ 550 : 1
+2025/07/14-11:23:04.823 a96 Compacting 1@0 + 1@1 files
+2025/07/14-11:23:04.826 a96 Generated table #127@0: 4 keys, 247 bytes
+2025/07/14-11:23:04.826 a96 Compacted 1@0 + 1@1 files => 247 bytes
+2025/07/14-11:23:04.826 a96 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/14-11:23:04.835 a96 Delete type=2 #126
+2025/07/14-11:23:04.840 a95 Manual compaction at level-0 from '\x00\x1f\x00\x00\x05' @ 550 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)

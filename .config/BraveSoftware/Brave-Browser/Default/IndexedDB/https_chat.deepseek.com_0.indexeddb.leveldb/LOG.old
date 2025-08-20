@@ -1,0 +1,15 @@
+2025/08/19-12:51:21.763 d70 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/19-12:51:21.763 d70 Recovering log #59
+2025/08/19-12:51:21.765 d70 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_chat.deepseek.com_0.indexeddb.leveldb/000059.log 
+2025/08/19-12:54:53.261 d6f Level-0 table #64: started
+2025/08/19-12:54:53.263 d6f Level-0 table #64: 31028 bytes OK
+2025/08/19-12:54:53.264 d6f Delete type=0 #59
+2025/08/19-12:54:53.265 d6f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/08/19-12:54:53.266 d70 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01$\x00c\x005\x001\x00e\x006\x00b\x00d\x009\x00-\x002\x005\x000\x001\x00-\x004\x004\x00b\x001\x00-\x009\x005\x000\x00c\x00-\x00e\x00d\x008\x00f\x00c\x003\x00d\x006\x005\x00f\x001\x004' @ 1211 : 1
+2025/08/19-12:54:53.266 d70 Compacting 1@1 + 1@2 files
+2025/08/19-12:54:53.346 d70 Generated table #65@1: 152 keys, 613090 bytes
+2025/08/19-12:54:53.346 d70 Compacted 1@1 + 1@2 files => 613090 bytes
+2025/08/19-12:54:53.346 d70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/08/19-12:54:53.346 d70 Delete type=2 #61
+2025/08/19-12:54:53.347 d70 Delete type=2 #64
+2025/08/19-12:54:53.347 d6f Manual compaction at level-1 from '\x00\x02\x01\x02\x01$\x00c\x005\x001\x00e\x006\x00b\x00d\x009\x00-\x002\x005\x000\x001\x00-\x004\x004\x00b\x001\x00-\x009\x005\x000\x00c\x00-\x00e\x00d\x008\x00f\x00c\x003\x00d\x006\x005\x00f\x001\x004' @ 1211 : 1 .. (end); will stop at (end)

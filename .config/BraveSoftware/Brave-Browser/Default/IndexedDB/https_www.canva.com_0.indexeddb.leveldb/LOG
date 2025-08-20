@@ -1,0 +1,16 @@
+2025/08/16-14:45:55.831 243b Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/16-14:45:55.834 243b Recovering log #669
+2025/08/16-14:45:55.859 243b Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.canva.com_0.indexeddb.leveldb/000669.log 
+2025/08/16-14:47:19.443 242b Level-0 table #676: started
+2025/08/16-14:47:19.504 242b Level-0 table #676: 2579544 bytes OK
+2025/08/16-14:47:19.535 242b Delete type=0 #669
+2025/08/16-14:47:39.440 242a Compacting 1@1 + 3@2 files
+2025/08/16-14:47:39.564 242a Generated table #677@1: 38443 keys, 2204480 bytes
+2025/08/16-14:47:39.695 242a Generated table #678@1: 41943 keys, 2234471 bytes
+2025/08/16-14:47:39.767 242a Generated table #679@1: 21763 keys, 1220193 bytes
+2025/08/16-14:47:39.767 242a Compacted 1@1 + 3@2 files => 5659144 bytes
+2025/08/16-14:47:39.767 242a compacted to: files[ 0 0 3 0 0 0 0 ]
+2025/08/16-14:47:39.767 242a Delete type=2 #671
+2025/08/16-14:47:39.768 242a Delete type=2 #672
+2025/08/16-14:47:39.768 242a Delete type=2 #673
+2025/08/16-14:47:39.768 242a Delete type=2 #676

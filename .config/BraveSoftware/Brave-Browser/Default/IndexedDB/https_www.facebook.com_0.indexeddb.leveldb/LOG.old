@@ -1,0 +1,15 @@
+2025/07/26-22:19:17.161 e10 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/26-22:19:17.163 e10 Recovering log #15
+2025/07/26-22:19:17.176 e10 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/000015.log 
+2025/07/27-00:04:47.385 e10 Level-0 table #20: started
+2025/07/27-00:04:47.434 e10 Level-0 table #20: 437881 bytes OK
+2025/07/27-00:04:47.436 e10 Delete type=0 #15
+2025/07/27-00:04:47.438 e10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/07/27-00:04:47.438 e11 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x11\x07\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 16109 : 1
+2025/07/27-00:04:47.439 e11 Compacting 1@1 + 1@2 files
+2025/07/27-00:04:47.454 e11 Generated table #21@1: 2337 keys, 97576 bytes
+2025/07/27-00:04:47.454 e11 Compacted 1@1 + 1@2 files => 97576 bytes
+2025/07/27-00:04:47.460 e11 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/07/27-00:04:47.461 e11 Delete type=2 #17
+2025/07/27-00:04:47.461 e11 Delete type=2 #20
+2025/07/27-00:04:47.463 e10 Manual compaction at level-1 from '\x00\x11\x07\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 16109 : 1 .. (end); will stop at (end)

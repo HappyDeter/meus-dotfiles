@@ -1,0 +1,10 @@
+2025/07/18-16:11:42.504 5090 Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.movida.com.br_0.indexeddb.leveldb since it was missing.
+2025/07/18-16:11:42.508 5090 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.movida.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/07/18-16:11:42.727 509e Level-0 table #5: started
+2025/07/18-16:11:42.730 509e Level-0 table #5: 1299 bytes OK
+2025/07/18-16:11:42.731 509e Delete type=0 #3
+2025/07/18-16:11:42.733 508f Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/18-16:12:22.412 5090 Level-0 table #7: started
+2025/07/18-16:12:22.417 5090 Level-0 table #7: 6815 bytes OK
+2025/07/18-16:12:22.417 5090 Delete type=0 #4
+2025/07/18-16:12:22.418 5090 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

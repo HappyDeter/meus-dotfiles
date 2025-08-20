@@ -1,0 +1,11 @@
+2025/05/11-22:45:32.951 bd6 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codedex.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/11-22:45:32.952 bd6 Recovering log #38
+2025/05/11-22:45:32.970 bd6 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.codedex.io_0.indexeddb.leveldb/000038.log 
+2025/05/11-22:45:33.195 bd5 Level-0 table #43: started
+2025/05/11-22:45:33.201 bd5 Level-0 table #43: 124496 bytes OK
+2025/05/11-22:45:33.201 bd5 Delete type=0 #38
+2025/05/11-22:45:33.209 bc5 Manual compaction at level-0 from '\x00\x0e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/11-22:47:00.583 bc6 Compacting 1@1 + 1@2 files
+2025/05/11-22:47:00.585 bc6 Generated table #44@1: 57 keys, 4657 bytes
+2025/05/11-22:47:00.585 bc6 Compacted 1@1 + 1@2 files => 4657 bytes
+2025/05/11-22:47:00.585 bc6 compacted to: files[ 0 0 1 0 0 0 0 ]

@@ -1,0 +1,25 @@
+2025/04/27-12:43:58.709 25e1 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pc-builds.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/27-12:43:58.710 25e1 Recovering log #57
+2025/04/27-12:43:58.710 25e1 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_pc-builds.com_0.indexeddb.leveldb/000057.log 
+2025/04/27-12:43:58.710 25e1 Delete type=2 #56
+2025/04/27-12:43:58.720 25f3 Level-0 table #62: started
+2025/04/27-12:43:58.721 25f3 Level-0 table #62: 1235 bytes OK
+2025/04/27-12:43:58.723 25f3 Delete type=0 #57
+2025/04/27-12:43:58.725 25e2 Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 1232 : 1
+2025/04/27-12:43:58.726 25e2 Compacting 1@0 + 1@1 files
+2025/04/27-12:43:58.731 25e2 Generated table #63@0: 135 keys, 4422 bytes
+2025/04/27-12:43:58.731 25e2 Compacted 1@0 + 1@1 files => 4422 bytes
+2025/04/27-12:43:58.731 25e2 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/04/27-12:43:58.731 25e2 Delete type=2 #62
+2025/04/27-12:43:58.732 25e1 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 1232 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/27-12:44:01.489 25e1 Compacting 1@1 + 1@2 files
+2025/04/27-12:44:01.490 25e1 Generated table #64@1: 126 keys, 6648 bytes
+2025/04/27-12:44:01.490 25e1 Compacted 1@1 + 1@2 files => 6648 bytes
+2025/04/27-12:44:01.490 25e1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/04/27-12:44:01.490 25e1 Delete type=2 #59
+2025/04/27-12:44:02.451 25e2 Level-0 table #66: started
+2025/04/27-12:44:02.451 25e2 Level-0 table #66: 10400 bytes OK
+2025/04/27-12:44:02.452 25e2 Delete type=2 #54
+2025/04/27-12:44:02.452 25e2 Delete type=0 #61
+2025/04/27-12:44:02.452 25e2 Delete type=2 #63
+2025/04/27-12:44:02.454 25e1 Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

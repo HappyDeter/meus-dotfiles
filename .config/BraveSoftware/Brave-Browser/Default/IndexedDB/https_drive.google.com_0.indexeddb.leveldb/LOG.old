@@ -1,0 +1,44 @@
+2025/08/19-21:14:15.300 aab Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/19-21:14:15.307 aab Recovering log #1534
+2025/08/19-21:14:15.342 aab Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/001534.log 
+2025/08/19-21:14:36.173 aac Level-0 table #1566: started
+2025/08/19-21:14:36.230 aac Level-0 table #1566: 2707010 bytes OK
+2025/08/19-21:14:36.233 aac Delete type=0 #1534
+2025/08/19-21:14:36.244 aac Compacting 1@0 + 0@1 files
+2025/08/19-21:14:36.275 aac Generated table #1567@0: 3191 keys, 553153 bytes
+2025/08/19-21:14:36.304 aac Generated table #1568@0: 979 keys, 542535 bytes
+2025/08/19-21:14:36.306 aac Compacted 1@0 + 0@1 files => 1095688 bytes
+2025/08/19-21:14:36.306 aac compacted to: files[ 0 2 18 0 0 0 0 ]
+2025/08/19-21:14:36.308 aac Delete type=2 #1566
+2025/08/19-21:14:36.333 af5 Compacting 1@1 + 2@2 files
+2025/08/19-21:14:36.458 af5 Generated table #1569@1: 873 keys, 2114895 bytes
+2025/08/19-21:14:36.791 af5 Level-0 table #1572: started
+2025/08/19-21:14:36.872 af5 Level-0 table #1572: 1671043 bytes OK
+2025/08/19-21:14:36.873 af5 Delete type=0 #1565
+2025/08/19-21:14:36.997 af5 Generated table #1570@1: 30322 keys, 1102008 bytes
+2025/08/19-21:14:36.998 af5 Compacted 1@1 + 2@2 files => 3216903 bytes
+2025/08/19-21:14:36.999 af5 compacted to: files[ 1 1 18 0 0 0 0 ]
+2025/08/19-21:14:37.001 aad Compacting 1@0 + 1@1 files
+2025/08/19-21:14:37.060 aad Level-0 table #1575: started
+2025/08/19-21:14:37.154 aad Level-0 table #1575: 1868893 bytes OK
+2025/08/19-21:14:37.157 aad Delete type=2 #1561
+2025/08/19-21:14:37.157 aad Delete type=2 #1563
+2025/08/19-21:14:37.157 aad Delete type=2 #1568
+2025/08/19-21:14:37.158 aad Delete type=0 #1571
+2025/08/19-21:14:37.191 aad Generated table #1573@0: 9563 keys, 2138612 bytes
+2025/08/19-21:14:37.193 aad Generated table #1576@0: 56 keys, 43424 bytes
+2025/08/19-21:14:37.198 aad Generated table #1577@0: 1607 keys, 26822 bytes
+2025/08/19-21:14:37.198 aad Compacted 1@0 + 1@1 files => 2208858 bytes
+2025/08/19-21:14:37.199 aad compacted to: files[ 1 3 18 0 0 0 0 ]
+2025/08/19-21:14:37.200 aad Delete type=2 #1567
+2025/08/19-21:14:37.200 aad Delete type=2 #1572
+2025/08/19-21:14:37.208 aac Compacting 1@0 + 3@1 files
+2025/08/19-21:14:37.359 aac Generated table #1578@0: 12714 keys, 2140233 bytes
+2025/08/19-21:14:37.415 aac Generated table #1579@0: 1937 keys, 1867868 bytes
+2025/08/19-21:14:37.421 aac Generated table #1580@0: 2865 keys, 56816 bytes
+2025/08/19-21:14:37.421 aac Compacted 1@0 + 3@1 files => 4064917 bytes
+2025/08/19-21:14:37.421 aac compacted to: files[ 0 3 18 0 0 0 0 ]
+2025/08/19-21:14:37.422 aac Delete type=2 #1573
+2025/08/19-21:14:37.422 aac Delete type=2 #1575
+2025/08/19-21:14:37.422 aac Delete type=2 #1576
+2025/08/19-21:14:37.422 aac Delete type=2 #1577

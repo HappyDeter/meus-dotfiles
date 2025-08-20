@@ -1,0 +1,10 @@
+2025/06/06-01:56:46.504 eb2 Creating DB /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.avon.com.br_0.indexeddb.leveldb since it was missing.
+2025/06/06-01:56:46.504 eb2 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.avon.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-01:56:46.720 ec0 Level-0 table #5: started
+2025/06/06-01:56:46.720 ec0 Level-0 table #5: 669 bytes OK
+2025/06/06-01:56:46.721 ec0 Delete type=0 #3
+2025/06/06-01:56:46.728 eb3 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-01:56:46.811 eb4 Level-0 table #7: started
+2025/06/06-01:56:46.812 eb4 Level-0 table #7: 1265 bytes OK
+2025/06/06-01:56:46.813 eb4 Delete type=0 #4
+2025/06/06-01:56:46.817 eb4 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

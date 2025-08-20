@@ -1,0 +1,9 @@
+2025/04/24-20:01:41.551 70af Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb/MANIFEST-000001
+2025/04/24-20:01:41.553 70af Recovering log #74
+2025/04/24-20:01:41.553 70af Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.speedtest.net_0.indexeddb.leveldb/000074.log 
+2025/04/24-20:01:43.066 70b0 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/24-20:01:43.968 70b0 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/04/24-20:01:45.352 70b0 Level-0 table #80: started
+2025/04/24-20:01:45.353 70b0 Level-0 table #80: 9608 bytes OK
+2025/04/24-20:01:45.353 70b0 Delete type=0 #74
+2025/04/24-20:01:45.781 70b0 Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,7 @@
+2025/06/03-18:33:35.800 5728 Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_affiliate.shopee.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/03-18:33:35.801 5728 Recovering log #3
+2025/06/03-18:33:35.871 5728 Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_affiliate.shopee.com.br_0.indexeddb.leveldb/000003.log 
+2025/06/03-18:33:38.899 5728 Level-0 table #5: started
+2025/06/03-18:33:38.910 5728 Level-0 table #5: 114054 bytes OK
+2025/06/03-18:33:38.911 5728 Delete type=0 #3
+2025/06/03-18:33:38.913 5736 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
