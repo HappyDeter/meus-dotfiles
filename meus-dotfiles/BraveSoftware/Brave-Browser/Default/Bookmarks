@@ -1,0 +1,160 @@
+{
+   "checksum": "a6bef06216a30e1047a930dc6c0d8a1b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13388686991000000",
+            "date_last_used": "0",
+            "guid": "d6799903-aea0-4c30-87bd-08209d25c9e7",
+            "id": "68",
+            "name": "Telegram Web",
+            "type": "url",
+            "url": "https://web.telegram.org/k/"
+         }, {
+            "date_added": "13389836852000000",
+            "date_last_used": "0",
+            "guid": "333441ba-a5bf-4762-a52c-b2faa130cdda",
+            "id": "69",
+            "name": "Shopee Affiliate Program | Shopee 2025",
+            "type": "url",
+            "url": "https://affiliate.shopee.com.br/dashboard"
+         }, {
+            "date_added": "13390342583000000",
+            "date_last_used": "13397844772093895",
+            "guid": "844b2340-6238-4432-840a-395490cb5400",
+            "id": "70",
+            "name": "bonk.io - Official Site: Play Bonk Here!",
+            "type": "url",
+            "url": "https://bonk.io/"
+         }, {
+            "date_added": "13398991946964658",
+            "date_last_used": "0",
+            "guid": "aa71eaae-50c0-4641-ad9a-7e2a9d039951",
+            "id": "82",
+            "name": "",
+            "type": "url",
+            "url": "blob:https://web.whatsapp.com/788ca5ac-859c-4bd5-8d98-6c314afe32c0"
+         }, {
+            "date_added": "13390416695000000",
+            "date_last_used": "0",
+            "guid": "e7a21023-485a-4fb8-a031-7d849a5ff09d",
+            "id": "71",
+            "name": "Friends - bonkonauts",
+            "type": "url",
+            "url": "https://bonkonauts.github.io/friendlist/"
+         }, {
+            "date_added": "13390426590000000",
+            "date_last_used": "0",
+            "guid": "198c4c23-da27-4056-af10-bbb7c646a2ff",
+            "id": "72",
+            "name": "Avatars - bonkonauts",
+            "type": "url",
+            "url": "https://bonkonauts.github.io/avatars/"
+         }, {
+            "date_added": "13391408224000000",
+            "date_last_used": "13398203644547533",
+            "guid": "f0fe3682-b3c6-48d3-b747-f5a4964af576",
+            "id": "73",
+            "name": "jnguyen095/clean-code: Book review: A Handbook of Agile Software Craftsmanship",
+            "type": "url",
+            "url": "https://github.com/jnguyen095/clean-code/tree/master"
+         }, {
+            "date_added": "13391409461000000",
+            "date_last_used": "0",
+            "guid": "b02bc98d-256b-484c-8c26-4e0ea8367e79",
+            "id": "74",
+            "name": "Flexbox Froggy - Um jogo para aprender CSS flexbox",
+            "type": "url",
+            "url": "https://flexboxfroggy.com/#pt-br"
+         }, {
+            "date_added": "13391484541000000",
+            "date_last_used": "0",
+            "guid": "d455815d-7d40-4468-8135-5341ae164be5",
+            "id": "75",
+            "name": "JKLM.FUN Jogos de festa para PC e celular. BombParty, Master of the Grid, PopSauce & co.",
+            "type": "url",
+            "url": "https://jklm.fun/"
+         }, {
+            "date_added": "13391746651000000",
+            "date_last_used": "0",
+            "guid": "66b44cff-3669-4c3e-b6a0-023b7fe66b0c",
+            "id": "76",
+            "name": "Youtube to MP3 Converter (Ad-free)",
+            "type": "url",
+            "url": "https://cnvmp3.com/v23"
+         }, {
+            "date_added": "13397973162994513",
+            "date_last_used": "13400009284177916",
+            "guid": "dac3bcc6-ac2f-4a74-b9a3-ec9d8e13263a",
+            "id": "78",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Screenshot por Lightshot",
+            "type": "url",
+            "url": "https://prnt.sc/rzjxGV1dbQ4u"
+         }, {
+            "date_added": "13398321671540630",
+            "date_last_used": "13400009289994313",
+            "guid": "be1cff4b-29c0-4f34-995f-1e89be9f182a",
+            "id": "80",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Screenshot por Lightshot",
+            "type": "url",
+            "url": "https://prnt.sc/6HlSU9WO4ZdN"
+         }, {
+            "date_added": "13399351095594832",
+            "date_last_used": "13400009293879248",
+            "guid": "95b139bc-7323-4f3a-aad9-04c27611f16d",
+            "id": "84",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Screenshot por Lightshot",
+            "type": "url",
+            "url": "https://prnt.sc/pru8j_RWHYT4"
+         }, {
+            "date_added": "13399351110079560",
+            "date_last_used": "13400009273989693",
+            "guid": "879a985a-9e34-457f-9434-0efd05673c17",
+            "id": "85",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Screenshot por Lightshot",
+            "type": "url",
+            "url": "https://prnt.sc/HkhjC2dgdQEa"
+         } ],
+         "date_added": "13397718873746221",
+         "date_last_used": "0",
+         "date_modified": "13399351110079560",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Barra de favoritos",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13397718873746221",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Outros favoritos",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13397718873746221",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Favoritos nos dispositivos móveis",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
