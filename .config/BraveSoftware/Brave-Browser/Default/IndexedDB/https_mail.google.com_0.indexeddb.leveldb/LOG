@@ -1,12 +1,6 @@
-2025/08/19-13:11:23.506 d6e Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/08/19-13:11:23.509 d6e Recovering log #58
-2025/08/19-13:11:23.533 d6e Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000058.log 
-2025/08/19-13:11:30.249 d70 Level-0 table #63: started
-2025/08/19-13:11:30.323 d70 Level-0 table #63: 3200307 bytes OK
-2025/08/19-13:11:30.327 d70 Delete type=0 #58
-2025/08/19-13:11:48.892 d70 Compacting 1@1 + 1@2 files
-2025/08/19-13:11:48.915 d70 Generated table #64@1: 161 keys, 320980 bytes
-2025/08/19-13:11:48.915 d70 Compacted 1@1 + 1@2 files => 320980 bytes
-2025/08/19-13:11:48.915 d70 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/08/19-13:11:48.916 d70 Delete type=2 #60
-2025/08/19-13:11:48.916 d70 Delete type=2 #63
+2025/08/19-21:32:21.187 aac Reusing MANIFEST /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/19-21:32:21.189 aac Recovering log #62
+2025/08/19-21:32:21.239 aac Reusing old log /home/joao/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000062.log 
+2025/08/19-21:32:37.064 aad Level-0 table #67: started
+2025/08/19-21:32:37.117 aad Level-0 table #67: 3208981 bytes OK
+2025/08/19-21:32:37.120 aad Delete type=0 #62
